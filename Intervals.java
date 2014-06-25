@@ -1,5 +1,6 @@
 public class Intervals{
-
+    /* This is a comment
+    */
     public static final int MAJ3 = 4;
     public static final int MIN3 = 3;
     public static final int FIFTH = 7;
